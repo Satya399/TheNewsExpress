@@ -1,6 +1,6 @@
 Introducing The News Express Website - your go-to source for reliable, up-to-date, and comprehensive news coverage. This website aims to deliver the latest news from around the world in a user-friendly and engaging manner, ensuring that you stay informed and connected.
 
-#Website Link : https://news-app-978f2a.netlify.app/
+#Website Link : https://the-news-express-978f2a.netlify.app/
 
 Our website covers a wide range of categories, including business, entertainment, health, science, sports, technology, and more. You can easily navigate through these categories and access articles that interest you the most. You can click on the read more option and read the full article in detail.
 
